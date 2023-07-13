@@ -1,0 +1,10 @@
+"received: "
+{"id":3,"rest":{"id":3,"rest":{"data":"msg3"}}}
+"sending: "
+{"id":3,"rest":{"data":"msg3"}}
+"received: "
+{"id":1,"rest":{"id":3,"rest":{"data":"msg2"}}}
+"sending: "
+{"data":"msg4"}
+"sending: "
+{"id":3,"rest":{"data":"msg2"}}

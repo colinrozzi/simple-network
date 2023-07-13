@@ -1,0 +1,14 @@
+"received: "
+{"id":3,"rest":{"data":"msg1"}}
+"sending: "
+{"id":2,"rest":{"id":1,"rest":{"id":3,"rest":{"data":"msg2"}}}}
+"sending: "
+{"data":"msg1"}
+"received: "
+{"id":2,"rest":{"id":3,"rest":{"id":3,"rest":{"data":"msg3"}}}}
+"sending: "
+{"id":0,"rest":{"data":"msg5"}}
+"sending: "
+{"id":3,"rest":{"id":3,"rest":{"data":"msg3"}}}
+"received: "
+{"data":"msg5"}
